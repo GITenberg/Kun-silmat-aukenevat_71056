@@ -1,6 +1,9 @@
 _repo: Kun-silmat-aukenevat_71056
 _version: 0.1.0
 alternative_title: Les yeux qui s'ouvrent. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bordeaux, Henry
@@ -15,6 +18,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Henry_Bordeaux
     - https://en.wikipedia.org/wiki/Henry_Bordeaux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71056#Kun-silmat-aukenevat
 gutenberg_issued: '2023-06-27'
 identifiers:
   gutenberg: '71056'
